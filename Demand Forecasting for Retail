@@ -16,8 +16,8 @@ to support data-driven inventory and stock planning decisions.
 
 ## Results
 - Model: Linear Regression
-- RMSE: [replace with your actual score]
-- R2 Score: [replace with your actual score]
+- RMSE: 0.9830
+- R2 Score: 13.3668
 
 ## Key Features
 - Full EDA with seasonality and trend analysis
