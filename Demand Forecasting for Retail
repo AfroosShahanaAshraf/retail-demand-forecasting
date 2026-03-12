@@ -1,0 +1,31 @@
+# Demand Forecasting for Retail
+
+## Overview
+Predicts future product demand for retail inventory planning 
+using machine learning and time series analysis.
+
+## Problem Statement
+Retail businesses lose revenue through overstocking and 
+stockouts. This project builds a demand forecasting model 
+to support data-driven inventory and stock planning decisions.
+
+## Tech Stack
+- Python, Pandas, NumPy
+- Scikit-Learn (Linear Regression)
+- Matplotlib, Seaborn
+
+## Results
+- Model: Linear Regression
+- RMSE: [replace with your actual score]
+- R2 Score: [replace with your actual score]
+
+## Key Features
+- Full EDA with seasonality and trend analysis
+- Missing value handling and feature engineering
+- Actionable inventory planning insights
+- Visual demand pattern analysis
+
+## How to Run
+1. Clone the repo
+2. Install requirements: pip install -r requirements.txt
+3. Run the notebook: demand_forecasting.ipynb
